@@ -7,5 +7,5 @@
 	/*Neutral*/
 	--dark-gray: hsl(0, 0%, 59%);
 
-	--ff-kumbh-sans
+	--ff-kumbh-sans: 'Kumbh Sans', sans-serif;
 }
